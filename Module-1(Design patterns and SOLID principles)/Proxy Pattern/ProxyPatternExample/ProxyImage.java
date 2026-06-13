@@ -6,7 +6,7 @@ public class ProxyImage implements Image {
         this.filename = filename;
     }
 
-    @Override
+    
     public void display() {
         if (realImage == null) {
             realImage = new RealImage(filename);
