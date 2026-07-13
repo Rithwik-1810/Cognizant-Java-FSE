@@ -1,4 +1,4 @@
-# Digital Nurture 5.0 — CTS Java FSE Exercises
+# Digital Nurture 5.0 —  Java FSE Exercises
 
 **Author:** V. Rithwik Reddy
 
