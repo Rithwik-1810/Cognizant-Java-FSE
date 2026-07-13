@@ -41,7 +41,7 @@ This repository serves as a record of my learning and hands-on practice during t
 
 ## Declaration of Authenticity
 
-I hereby declare that all solutions in this repository have been implemented by me as part of the Cognizant Digital Nurture 5.0 Program. Any external references or learning resources used have been solely for educational purposes. Wherever code or ideas from external sources have been adapted, appropriate credit has been provided in the respective exercise documentation or comments.
+I hereby declare that all solutions in this repository have been implemented by me as part of the Cognizant Digital Nurture 5.0 Program. Any external references or learning resources used have been solely for educational purposes.
 
 ## Contributions
 
