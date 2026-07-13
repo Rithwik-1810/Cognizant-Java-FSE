@@ -1,7 +1,9 @@
 # Digital Nurture 5.0 — CTS Java FSE Exercises
 
 **Author:** V. Rithwik Reddy
+
 **Email:** *[rithwikreddy.vancha@gmail.com](rithwikreddy.vancha@gmail.com)*
+
 **Date:** July 2026
 
 ## Project Overview
