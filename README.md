@@ -1,12 +1,12 @@
 # Digital Nurture 5.0 —  Java FSE Exercises
 
-**Author:** V. Rithwik Reddy
+**Author:** Vancha Rithwik Reddy
+
+**SuperSet ID:** 7977262
 
 **Email:** *[rithwikreddy.vancha@gmail.com](rithwikreddy.vancha@gmail.com)*
 
 **Date:** July 2026
-
-**SuperSet ID:** 7977262
 
 ## Project Overview
 
