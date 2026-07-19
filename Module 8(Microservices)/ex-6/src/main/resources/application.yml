@@ -1,0 +1,10 @@
+resilience4j:
+  circuitbreaker:
+    instances:
+      exampleCircuitBreaker:
+        registerHealthIndicator: true
+        slidingWindowSize: 10
+        failureRateThreshold: 50
+
+server:
+  port: 9092
